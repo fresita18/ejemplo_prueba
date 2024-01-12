@@ -1,0 +1,40 @@
+
+#div1{
+    margin: 8px;
+    background-color: lightblue;
+    
+}
+#p1{
+ font-size: 24px;
+ padding: 8px;
+ font-weight: bolder;
+}
+#p2{
+    font-size: 20px;
+    padding: 8px;
+    text-align: justify;
+}
+#p3{
+    font-size: 24px;
+    padding: 8px;
+    text-align: center;
+}
+#div2
+{
+   margin:8px;
+   background-color: lightblue;
+
+}
+#div3
+{
+    margin:8px;
+    background-color: lightblue;
+    padding:8px;
+    text-align: center;
+}
+button{
+    padding-top: 20px;
+    padding-bottom: 24px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
