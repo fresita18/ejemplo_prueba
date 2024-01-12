@@ -1,0 +1,22 @@
+#div1{
+    background-color: pink;
+    border: solid;
+    border-color: blueviolet;
+    padding: 32px;
+    margin: 12px;
+}
+#div2{
+background-color: skyblue;
+border:solid;
+border-color: brown;
+}
+#div3{
+    text-align: left;
+    
+    padding:32px;
+    margin: 48px;
+    margin-left:65%;
+    background-color: rgba(255, 166, 0, 0.123);
+    border: solid;
+    border-color: peru;
+}
