@@ -1,0 +1,57 @@
+img{
+    width: 500px;
+    margin-left: 500px;
+    margin-top:20px;
+}
+body{
+    background-color: #EFE1C6;
+}
+h1,h2{
+    color: #66401A;
+    font-family: Georgia;
+    font-weight: bold;
+   
+    
+}
+i{
+    font: underline;
+    text-decoration: underline;
+    font-size: 30px;
+}
+th{
+    text-align: center;
+}
+tr
+{
+    border-collapse: separate;
+    border:solid ;
+}
+td{
+    border-collapse: separate;
+   border:solid;
+    text-align: center;
+    padding-left:20px;
+    padding-right: 10px;;
+}
+a{
+    color:blue;
+}
+.fondo_proyecto{
+     width: 200px;
+     padding:10px;
+     margin-top: auto;
+     background-color: #EFE1C6;
+     border:solid 1px;
+     border-color:#66401A;
+}
+.fondo_cuerpo{
+    background-color: white;
+    width: 700px;
+    border-top: solid 10px;
+
+    border-color: #66401A;
+
+}
+input{
+    background-color:#EFE1C6;
+}
